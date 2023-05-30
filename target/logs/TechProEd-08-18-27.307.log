@@ -1,0 +1,5 @@
+2022-10-20 08:18:27,306 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4e73b552
+2022-10-20 08:18:27,309 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@221dad51
+2022-10-20 08:18:27,325 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.numHeapArenas: 19
+2022-10-20 08:18:27,325 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.numDirectArenas: 19
+2022-10-20 08:18:27,326 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.pageSize: 8192

@@ -1,0 +1,19 @@
+1- JUnit ten ilham almistir JUnit in gelismis versiyonudur
+2- Testerlara daha fazla imkan vermek icin kontrol vermek icin olusturulmus bir framework u
+3- Testleri calistirma siralamasi yapar
+4-Test caslerimizi daha basit dizayn etmemizi saglar
+5-Testbase kullanisli ancak surdurulebilir degil
+6- Bir clas bir class in child i olabilir. Bir testbase kullaninca class i bagliyoruz
+7-Child class sadece testbase classinin child i olur ve bu durum class i calismamizi sinirlar
+8- Paralel calisma imkani 3 ayri browser ayni anda calisabilir
+9-Ayni zamanda XML dosyalari kullanarak toplu calismalara acik
+10-Raporlama yapar
+11-JUnit dependecy sini kaldir TestNG Kutuphanesini ekledik
+12- TestNG daha fazla notasyon sunar
+13-BeforeMethod-AfterMethod : JUnit teki @Before gibi (@Before Methodu gibi her methoddan once ve sonra calisirlar) ayri
+bunu disindakiler (her method icin ayri ayri calismaz, sadece 1 kere calisirlar digerleri kendilerine tanimlanan  ozel gruplardan once 1 kere
+ ve sonra 1 kere calisirlar
+14-Dielim ki cok test var ve smoke test icin su packageden 1 class oteki package dan 2 class gibi durumlarda
+bu testleri gruplara ayirip suitlere belli test paketlerine ayirip bolup istedigimiz durumlarda git su suit i calistir diyoruz.
+iste diyelim ki 350 test bundan once yapilacak bir ayar bir seyin calismasi gerekirse before suit after suit kullanilir
+Bu yuzden kisisel bilgisayardan calistirilmaz uzak masaustu kullanilir istediginiz kadar ram i doldurup calistirabilirsiniz

@@ -1,0 +1,4 @@
+2022-10-20 08:18:27,277 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6f4ade6e
+2022-10-20 08:18:27,280 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@39e43310
+2022-10-20 08:18:27,281 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@eb507b9
+2022-10-20 08:18:27,283 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@390877d2
