@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class C01_PageClassFaceBookTest {
     @Test
-    public void test01() {//NOT POM da amac test classinda yesil hicbisey birakmamak yani manuel girecegim hicbisey burda olmayacak
+    public void test01() {//NOTe: POM da amac test classinda yesil hicbisey birakmamak yani manuel girecegim hicbisey burda olmayacak
                         // nerde olacak hepsi ayri classlarda olacak
 
 
