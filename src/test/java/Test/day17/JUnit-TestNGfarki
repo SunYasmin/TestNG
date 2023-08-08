@@ -7,4 +7,10 @@ JUnit teki before ve after in yerine before method
 
 
 
-4-SoftAssert
+4-SoftAssert TESTNG DE VAR
+/*
+        SoftAssert başlangıç ve bitiş satırları arasındaki tüm assertion'ları yapıp
+        bitiş olarak belirtmemiz gereken assertAll() metoduyla test metodumuzdaki bütün assertion'ları
+        kontrol eder. Failed olan olursa assertion yaptığımız metodun sonuna yazdığımız mesajı bize
+        konsolda verir
+         */

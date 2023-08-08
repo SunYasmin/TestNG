@@ -10,8 +10,8 @@ public class Driver {
 
     //Bu class ta gizli bir constructor var onu kullanarak burdan bir obje olusturup singlepattern deki adrese gittim
     //burada 2 yol oldu o class ta ulasirken bu da dogru degil
-    //gizli cons. i iptal etmek icin constrouctor olustururum tek yol olsun diye
-    //buraya private cons. olusturuyorum baska kimse ulasamaz ulasmak isteyen class adi ile ulasir
+    //gizli cons. i iptal etmek icin constructor olustururum tek yol olsun diye
+    //buraya private cons. olusturuyorum, baska kimse ulasamaz ulasmak isteyen class adi ile ulasir
     // Default constructor'u devre dısı bırakmak yani SingletonPattern yapmak icin kullanılıyor
     private Driver(){
 

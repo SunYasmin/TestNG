@@ -1,4 +1,4 @@
 TestNG de
 1- Öncelikle configuration ’a tanimlamalar yapılır(username,url,password gibi)
 2- Pages sayfasinda locate’leri yapariz
-3- ConfigReader ile sorunun çözümünü yapilir
+3- ConfigReader ile sorunun çözümü yapilir
